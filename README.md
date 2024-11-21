@@ -7,4 +7,4 @@ Make sure download all necessary libraries listed in notebook before running it 
 
 Adjust file path if needed
 
-The bbc-text.scv is the database trained and tested in this project
+The bbc-text.scv is the dataset trained and tested in this project
